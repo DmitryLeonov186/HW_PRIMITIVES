@@ -4,11 +4,10 @@ public class Main {
         // Цена билета
         int bonusMile = 20;
         // Рублей за одну бонусную милю
-        int totalBonus = price/20;
+        int totalBonus = price / 20;
         // Итого бонусных миль
 
-        System.out.println("Бонус равен " + totalBonus  + " Миль");
-
+        System.out.println("Бонус равен " + totalBonus + " Миль");
 
 
     }
